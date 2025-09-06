@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - [LinkTree](https://github.com/Aiize14/Proyecto-BD)
   Un proyecto de manejo de bases de datos que busca conectar freelancers y empleadores de manera directa a traves de la exposición de proyectos.
 - [Estructuras de Datos](https://github.com/AlexGomezUnal/tallerEstructuras)
+
+## Stats so far...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=extraGCG&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   
   
   
