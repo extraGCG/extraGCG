@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🎓 Estudiante de *Ingeniería de Sistemas y Computación* de la **Universidad Nacional de Colombia**
 
 ❗ Interesado en el Desarrollo de Software y su aplicación en proyectos expresivos y creativos
+❔ Busco colaborar en diferentes tipos de proyecto, en particular aquellos orientados a los videojuegos y el vasto mundo del código abierto.
 
 ## 🔍 Manejo principalmente:
 
