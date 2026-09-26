@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔍 Manejo principalmente:
 
-- **Lenguajes de Programación**: C++, Python
+- **Lenguajes de Programación**: Python, C++
 - **Datos**: MySQL
 
 ## Algunos proyectos
