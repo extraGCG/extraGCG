@@ -1,5 +1,3 @@
-## Hola, soy Gabriel!
-
 <!--
 **extraGCG/extraGCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,24 +13,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Estudiante de *Ingeniería de Sistemas y Computación* de la **Universidad Nacional de Colombia**
+## Hi, I'm Gabriel! 👋
 
-❗ Interesado en el Desarrollo de Software y su aplicación en proyectos expresivos y creativos
+🎓 Systems and Computer Engineering student at the **Universidad Nacional de Colombia**
 
-❔ Busco colaborar en diferentes tipos de proyecto, en particular aquellos orientados a los videojuegos y el vasto mundo del código abierto.
+💻 Passionate about software development, especially where it intersects with creative and expressive projects
 
-## 🔍 Manejo principalmente:
+🤝 Open to collaborating on projects of all kinds, with a particular interest in **open source projects**
 
-- **Lenguajes de Programación**: Python, C++
-- **Datos**: MySQL
+## Main skills:
 
-## Algunos proyectos
+**Languages:** Python, C++
 
-- [Factory Tracing](https://github.com/AlexGomezUnal/FactoryTracing)
-  Una aplicación para conocer la composición y origen de los productos que compramos
-- [LinkTree](https://github.com/Aiize14/Proyecto-BD)
-  Un proyecto de manejo de bases de datos que busca conectar freelancers y empleadores de manera directa a traves de la exposición de proyectos.
-- [Estructuras de Datos](https://github.com/AlexGomezUnal/tallerEstructuras)
+**Databases:** MySQL
+
+**Also used in team projects:** Django, Tailwind CSS, Docker, JavaScript, Java
+
+## Some projects I've worked on
+
+### [Conedus](https://github.com/10scar/scatola)
+A gamified, Duolingo-style study platform for Colombia's ICFES and Universidad Nacional entrance exams, with adaptive learning paths and daily reminders.
+`Python` `Django` `MySQL` `Docker`
+
+### [Factory Tracing](https://github.com/AlexGomezUnal/FactoryTracing)
+An app for tracing the composition and origin of the products we buy — helping consumers make more informed purchasing decisions.
+`Python` `MySQL`
+
+### [LinkTree](https://github.com/Aiize14/Proyecto-BD)
+A database-driven project connecting freelancers and employers directly, letting freelancers showcase their work without a middleman platform.
+`MySQL` `JavaScript`
+
+### [Data Structures](https://github.com/AlexGomezUnal/tallerEstructuras)
+Coursework implementing core data structures from scratch, as part of my Systems Engineering studies.
+`C++` `Java` `Python`
+
 
 ## Stats so far...
 
